@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1.42857143;
+    font-family: 'Lusitana', serif;
+}
+
+
+/* Header-Section-Css */
+
+#top{
+    background: #eaf5ff;
+    overflow: hidden;
+    padding: 0;
+}
+
+/* Nav-bar */
+
+#header{
+    position: relative;
+    padding: 1.5rem;
+    left: 17%;
+    width: 65%;
+    height: 15%;
+}
+ 
+#img-logo{
+    width: 80px;
+    height: 80px;
+}
+
+.nav{
+    color: #3282b8;
+    font-size: 105% ;
+    font-family: 'Lusitana', serif;
+    margin-left:  .3rem;
+    margin-right:  .9rem;
+}
+
+
+
+/* greetings */
+
+#greetings{
+    width: 30%;
+    height: 35%;
+}
+
+.intro-text{
+ font-family: 'Great Vibes', cursive;
+ font-size: 2.5rem;
+ text-align: center;
+ color: #3282b8;
+}
+
+.intro-text1{
+ font-family: 'Great Vibes', cursive;
+ font-size: 5rem;
+ text-align: center;
+ color: #3282b8;
+}
+
+
+.intro-text2{
+ font-family: 'Great Vibes', cursive;
+ font-size: 2rem;
+ text-align: center;
+ color: #3282b8;
+}
+
+/* background */
+
+#background-img{
+  width: 60%;
+}
+
+.cloud-img{
+    position: absolute;
+    left: 69%;
+    padding-top: 4rem;
+}
+
+.cloud-img1{
+ position: absolute;
+ left: 22%;
+ bottom: 52%;
+}
+
+
+hr.divider{
+    position: relative;
+    height: 55px;
+    width: 100px;
+    top: 100px;
+   
+}
+/* Middle-Section */
+
+#middle{
+  color: #f0f6f7ff;
+  height: 100%;
+  
+}
+
+h3 , h2 , h4{
+    color: #3282b8;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: 'Cormorant Garamond', serif;
+    color:#ff9a76;
+}
+
+/* Hello-Section */
+
+.figure-img{
+    display: block;
+    width: 38%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#about-me{
+    width: 30%;
+    padding: 2.5rem;
+}
+
+#about-me  article h3{
+    text-align-last: center;
+    padding: .2rem .5rem;
+    font-size: 2.5rem;
+}
+
+#about-me article p {
+    text-align: center;
+}
+
+/* Skill-Section */
+
+#skills{
+    padding: 5rem;
+    width: auto;
+    height: 50%;
+}
+
+.figure-img1{
+    width: 50%;
+    
+}
+
+#skills article h2{
+    text-align: center;
+    padding: 0 0 3rem;
+}
+
+#skills article h3{
+    position: absolute;
+    font-size: 1.8rem;
+    width: 76%;
+    left: 20%;
+}
+
+#skills article p{
+   position: absolute;
+   left: 30%;
+   bottom: 30%;
+   width: 30%;
+}
+
+/* android-skills */
+
+.android-gif{
+    width: 30%;
+}
+
+#skills article .android-developer{
+  position: absolute;
+  width: 45%;
+  height: 40%;
+}
+
+/* web-development */
+
+.fullstack-gif {
+    position: absolute;
+    width: 25%;
+    top: 5%;
+    left: 5%;
+    padding: 1.5rem 1.5rem;
+    
+}
+
+
+#skills article .fullstack{
+   position: absolute;
+   left: 32%;
+   height: 39%;
+   width: 45%;
+}
+
+/* Unity */
+
+#skills article .unity{
+    position: absolute;
+    width: 36%;
+    left: 63%;
+    height: 38%;
+}
+
+.game-gif{
+  width: 28%;
+  position: absolute;
+  left: 1%;
+  top: 5%;
+  padding: 3.9rem 1.5rem;
+}
+
+/* Message-Css */
+
+#hire{
+    text-align: center;
+    padding:  2rem 0;
+}
+
+#message{
+    padding: 10rem 0;
+    width: 50%;
+    text-align: center;
+}
+
+#bold{
+    font-weight: bolder;
+    color:#3282b8;
+} 
+
+/* footer-Css */
+
+footer{
+    background-color: #b0deff;
+    padding: .5rem;
+    text-align: center;
+}
+
+.btn{
+    font-family: 'Lusitana', serif;
+}
